@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaianSantana
-- 👀 I’m interested in Python, C#
-- 🌱 I’m currently learning Python, C#.
+- 👀 I’m interested in Python, C#, JavaScript
+- 🌱 I’m currently learning Python, C#, JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
