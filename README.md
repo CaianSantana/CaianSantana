@@ -1,6 +1,6 @@
 - 👋 Olá, sou @CaianSantana.
-- 👀 Sou interessado em Python, C#, JavaScript
-- 🌱 Estou aprendendo Python, C#, JavaScript.
+- 👀 Sou interessado em Python, C#, JavaScript, C, SQLServer.
+- 🌱 Estou aprendendo Python, C#, C.
 - Contato através do email: Caian23@outlook.
 
 <!---
