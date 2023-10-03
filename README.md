@@ -1,11 +1,14 @@
-### Olá, seja bem vindo! Meu nome é Caian.
-Estou cursando Análise e Desenvolvimento de Sistemas pelo IFBA.
+### Olá, seja bem vindo GitHub! 
+<p>Meu nome é Caian. Estou cursando Análise e Desenvolvimento de Sistemas pelo IFBA.</p>
 
 
-<div align="center">
-  <a href="https://github.com/CaianSantana">
-  <img align="left" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaianSantana&layout=compact&langs_count=7&theme=midnight-purple"/>
+
+
+<div display= "inline-block" margin="0"border="0">
+  <img align="left-auto"   height="250em" width="64%" src="https://github-readme-stats.vercel.app/api?username=CaianSantana&rank_icon=github&include_all_commits=true&show_icons=true&hide=issues,contribs&theme=great-gatsby"/>
+  <img align="right-auto"  height="250em" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaianSantana&layout=donut&langs_count=5&theme=great-gatsby"/>
 </div>
+
 <!--
 - 👋 Olá, sou @CaianSantana.
 - 👀 Sou interessado em Python, C#, JavaScript, C, SQL, Java, C, Linux.
