@@ -1,5 +1,5 @@
 ### Olá, seja bem vindo GitHub! 
-<p>Meu nome é Caian. Estou cursando Análise e Desenvolvimento de Sistemas pelo IFBA.(4º semestre)</p>
+<p>Meu nome é Caian. Estou cursando Análise e Desenvolvimento de Sistemas pelo IFBA (4º semestre).</p>
 
 
 
