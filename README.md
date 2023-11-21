@@ -16,11 +16,8 @@ Meu nome é Caian. Estou cursando Análise e Desenvolvimento de Sistemas pelo IF
 
 ## ✔️ GitHub Status: 
 
-
 <div display= "inline-block" margin="0"border="0">
   <img align="left-auto"   height="250em" width="64%" src="https://github-readme-stats.vercel.app/api?username=CaianSantana&rank_icon=github&include_all_commits=true&show_icons=true&hide=issues,contribs&theme=great-gatsby"/>
   <img align="right-auto"  height="250em" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaianSantana&layout=donut&langs_count=5&theme=great-gatsby"/>
 </div>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
