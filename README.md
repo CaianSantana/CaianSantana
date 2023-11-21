@@ -1,7 +1,13 @@
 ## Olá, seja bem vindo GitHub! 
 Meu nome é Caian. Estou cursando Análise e Desenvolvimento de Sistemas pelo IFBA (4º semestre).
 
-## 🔗 Conecte-se comigo:
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="C" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Java" width="40" height="40"/>&nbsp;
+
+
+## 🔗 Conecte-se comigo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/caian-j-santana-092961229/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:caian23@outlook.com)
@@ -16,13 +22,5 @@ Meu nome é Caian. Estou cursando Análise e Desenvolvimento de Sistemas pelo IF
   <img align="right-auto"  height="250em" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaianSantana&layout=donut&langs_count=5&theme=great-gatsby"/>
 </div>
 
-<!--
-- 👋 Olá, sou @CaianSantana.
-- 👀 Sou interessado em Python, C#, JavaScript, C, SQL, Java, C, Linux.
-- 🌱 Estou aprendendo C, Java, JavaScript, Linux.
-- Contato através do email: Caian23@outlook.
--->
-<!---
-CaianSantana/CaianSantana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
