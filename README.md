@@ -1,7 +1,14 @@
 ### Olá, seja bem vindo GitHub! 
 <p>Meu nome é Caian. Estou cursando Análise e Desenvolvimento de Sistemas pelo IFBA (4º semestre).</p>
 
+## 🔗 Conecte-se comigo:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/caian-j-santana-092961229/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:caian23@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaianSantana/)
+[![WhatsApp](https://img.shields.io/badge/whatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571986967582)
+
+## ✔️ GitHub Status: 
 
 
 <div display= "inline-block" margin="0"border="0">
