@@ -1,5 +1,5 @@
 ## Olá, seja bem vindo ao meu perfil no GitHub! 
-Meu nome é Caian. Estou cursando Análise e Desenvolvimento de Sistemas pelo IFBA (4º semestre).
+Meu nome é Caian. Estou cursando Análise e Desenvolvimento de Sistemas pelo IFBA (5º semestre).
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Java" width="40" height="40"/>&nbsp;
